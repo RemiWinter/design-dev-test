@@ -5,7 +5,7 @@ const footer = () => {
     <footer className='container'>
       <div className="footer-left">
         <div className="footer-left-content">
-        <img className='logo' src="/logo.svg" alt="" />
+        <img className='logo' src="https://raw.githubusercontent.com/RemWinter/design-dev-test/main/public/logo.svg" alt="" />
         <div className="social-icons">
           <img src="https://raw.githubusercontent.com/RemWinter/design-dev-test/main/public/twitter.svg" alt="" className="icon" />          
           <img src="https://raw.githubusercontent.com/RemWinter/design-dev-test/main/public/linkedin.svg" alt="" className="icon" />        
