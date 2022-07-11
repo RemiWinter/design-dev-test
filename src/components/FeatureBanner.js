@@ -12,7 +12,7 @@ const FeatureBanner = () => {
           <div className="event-date">
             <h1><span>01</span><br />AUG</h1>
           </div>
-          <img src="/events_image1.png" alt=""/>
+          <img src="https://raw.githubusercontent.com/RemWinter/design-dev-test/main/public/events_image1.png" alt=""/>
           <div className="grad-overlay"></div>
           <h1 className='event-title'>Ludlow campus rock festival 2019</h1>
         </div>
@@ -20,7 +20,7 @@ const FeatureBanner = () => {
         <div className="event-date">
             <h1><span>14</span><br />AUG</h1>
           </div>
-          <img src="/events_image2.png" alt="" />
+          <img src="https://raw.githubusercontent.com/RemWinter/design-dev-test/main/public/events_image2.png" alt="" />
           <div className="grad-overlay"></div>
           <h1 className='event-title'>2019 game design exhibition</h1>
         </div>
@@ -28,7 +28,7 @@ const FeatureBanner = () => {
         <div className="event-date">
             <h1><span>21</span><br />AUG</h1>
           </div>
-          <img src="/events_image3.png" alt="" />
+          <img src="https://raw.githubusercontent.com/RemWinter/design-dev-test/main/public/events_image3.png" alt="" />
           <div className="grad-overlay"></div>
           <h1 className='event-title'>Study collaboration session </h1>          
         </div>

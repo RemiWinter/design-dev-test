@@ -4,8 +4,15 @@ import FeatureBanner from './components/FeatureBanner.js'
 import Header from './components/Header.js'
 import Navbar from './components/Navbar.js'
 import Footer from './components/Footer.js'
+import { useEffect } from "react"
 
 const App = () => {
+
+
+  
+  useEffect(() => {
+    document.title = 'Ludlow University';
+  });
   return (
     <div >
       <Navbar/>

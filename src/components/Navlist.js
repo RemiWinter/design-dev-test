@@ -1,6 +1,6 @@
 import React from 'react'
 
-const Navlist = ({navItems, onClick}) => {
+const Navlist = ({navItems}) => {
   return (
       <ul>
       {navItems.map(item => (
