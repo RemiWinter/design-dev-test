@@ -16,7 +16,7 @@ const Header = () => {
 
         <div className="hero-right">
           <div className="img-div">
-            <img src="https://raw.githubusercontent.com/RemWinter/design-dev-test/main/public/hero_img.png" alt="" />
+            <img src="./design-dev-test/hero_img.png" alt="" />
           </div>
         </div>
       </div>

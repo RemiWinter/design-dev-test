@@ -24,7 +24,7 @@ const Navbar = () => {
         <div className="nav-content container">
           <div id="nav-left">
             <a href="#" id="logo">
-              <img src="https://raw.githubusercontent.com/RemWinter/design-dev-test/main/public/logo.svg" alt="" />
+              <img src="./design-dev-test/logo.svg" alt="" />
             </a>
           </div>
           <div id="nav-right">
@@ -58,7 +58,7 @@ const Navbar = () => {
       <div className="menu-bg" id="menu-bg"></div>
       <div className="nav-logo">
           <a href="#" id="logo">
-            <img src="https://raw.githubusercontent.com/RemWinter/design-dev-test/main/public/logo.svg" alt="" />
+            <img src="./design-dev-test/logo.svg" alt="" />
           </a>
       </div>
 
